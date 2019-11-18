@@ -7,8 +7,6 @@ To create APIs using Node, Express and MongoDB.
 
 This will install the dependencies inside `node_modules`
 
-In the project directory, you can run:
-
 ### `node server.js` OR `nodemon start`
 
 Runs the app in the development mode.<br>
